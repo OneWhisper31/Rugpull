@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LevelMenu
+  m_Controller: {fileID: 9100000, guid: df113e6a69787174bae22bac779a3568, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: f98a90aff9cdfda41b08c873da5296a9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0898927139bcf8a47a93972dee7c3464, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5e6b5dfe5ab1aa140b9cd98bb1374373, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bf618e8e51731f94a8c9176d563bc2b5, type: 2}

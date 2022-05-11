@@ -1,0 +1,3 @@
+rep "Rugpull@Hitless_Studios@cloud"
+  path "/"
+    smartbranch "/main"
